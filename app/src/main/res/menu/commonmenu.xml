@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:iconTint="@color/colorAccent"
+        android:id="@+id/datesheera"
+
+        android:title="date"
+        app:showAsAction="ifRoom" />
+    <item
+        android:iconTint="@color/colorAccent"
+        android:id="@+id/dte"
+        android:icon="@drawable/ic_expand_more_black_24dp"
+        android:title="date"
+        app:showAsAction="ifRoom" />
+</menu>
